@@ -1,11 +1,5 @@
 ## IPL Data Analysis:-
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Findianexpress.com%2Farticle%2Fsports%2Fipl%2Fipl-2020-full-schedule-fixtures-start-date-timings-venues-6583339%2F&psig=AOvVaw38XRCMu83uS9Fqmt2BKsye&ust=1650956420193000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJjupYnSrvcCFQAAAAAdAAAAABAD
-
-
-
-
-
 In this project, I have analyzed the history of the **Indian Premier League (IPL)**. The analysis presented in this project are easy to understand for those who have basic to intermediate understanding of **Python programming language** and its data science libraries like **Numpy, Pandas, Matplotlib and Seaborn**. We have analyzed **32** different questions related to the tournament and the insights are really amazing. 
 
 **Some of the questions analyzed using the data in this project are:-**
