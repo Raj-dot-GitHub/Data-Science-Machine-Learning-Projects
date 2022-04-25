@@ -1,0 +1,1 @@
+In this project, I have analyzed the history of the Indian Premier League (IPL). The analysis presented in this project are easy to understand for those who have basic to intermediate understanding of Python programming language and its data science libraries like Numpy, Pandas, Matplotlib and Seaborn.
