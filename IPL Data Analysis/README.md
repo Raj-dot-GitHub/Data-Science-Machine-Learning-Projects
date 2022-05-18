@@ -16,6 +16,11 @@ We have 2 parts in this Data Analysis Project. The first part goes into analyzin
 
 **Part 1 :- Analyzing the history of IPL.**
 
+<div id="header" align="center">
+  <img src="<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="250"/>
+</div>
+
 The Notebook has a list of 40 questions which is been divided into 4 different parts:-
 
 1. General Analysis.
