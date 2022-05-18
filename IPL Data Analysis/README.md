@@ -18,7 +18,7 @@ We have 2 parts in this Data Analysis Project. The first part goes into analyzin
 
 <div id="header" align="center">
   <img src="<div id="header" align="center">
-  <img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" width="200"/>
 </div>
 
 The Notebook has a list of 40 questions which is been divided into 4 different parts:-
@@ -50,6 +50,11 @@ Below are some of the example questions answered in this notebook:-
 18.  Which player has won the most number of Player of the Match awards?
 
 **Part 2 :- Building a Machine Learning Model that predicts the first innings score.**
+                                                                                 
+<div id="header" align="center">
+  <img src="<div id="header" align="center">
+  <img src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" width="200"/>
+</div>
 
 This notebook is all about building a machine learning model that can predict the first innings score of an IPL match. Though we present some of the accurate machine learning models based of the training data at the end of this notebook, predicting first innings score is full of uncertainity. It depends on various factors on the game day.
 
