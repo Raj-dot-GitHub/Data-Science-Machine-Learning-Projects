@@ -1,5 +1,9 @@
 ## IPL Data Analysis:-
 
+<div id="header" align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Findianexpress.com%2Farticle%2Fsports%2Fipl%2Fipl-2020-full-schedule-fixtures-start-date-timings-venues-6583339%2F&psig=AOvVaw03OYksMuReZpUuUNhfRLrO&ust=1652931507292000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjZjeyP6PcCFQAAAAAdAAAAABAD" width="150"/>
+</div>
+
 In Cricket, IPL stands for 'Indian Premier League', a T20 cricket tournament which was originally established in 2008. The concept of creating an 'Indian Premier League IPL' structure was originally brought up by 'Lalit Modi', the vice president of BCCI. It is traditionally played from April through to June each year.
 
 Modi was ready to create a league that could attract people of all generations, including young cricket lovers. He acknowledged that this T20 format tournament would deliver high–quality matches that would make viewers forget about slow-paced matches like the 5 day Test Match.
@@ -8,19 +12,18 @@ Developed on a round-robin concept, the IPL includes group stage games and the l
 
 We have 2 parts in this Data Analysis Project. The first part goes into analyzing the history of the IPL and the Second part is all about building a machine learning model that can predict the first innings score of the IPL match.
 
-Below are the details of both the parts:-
+### Below are the details of both the parts:-
 
-> Part 1 :- Analyzing the history of IPL.
+**Part 1 :- Analyzing the history of IPL.**
 
-The Notebook is divided into different parts:-
+The Notebook has a list of 40 questions which is been divided into 4 different parts:-
 
 1. General Analysis.
-2. Toss Analysis
-3. Batting Analysis
-4. Death overs Analysis.
-5. Bowling Analysis.
+2. Toss Analysis.
+3. Batting Analysis.
+4. Bowling Analysis.
 
-Below are some of the examples of questions answered in the analysis:- 
+Below are some of the example questions answered in this notebook:- 
 
 1. When and where was the first IPL match played?
 2. How many matches were played in each seasons of IPL? Which seasons had more number of matches played in comparison with the other IPL seasons??
@@ -37,4 +40,18 @@ Below are some of the examples of questions answered in the analysis:-
 13.  Who have scored the highest individual score in IPL?
 14.  What is the percentage of matches won by teams batting 1st?
 15.  Which bowler has taken the most number of wickets in IPL?
-16.  Which player has won the most number of Player of the Match awards?
+16.  Most maiden overs bowled by a bowler?
+17.  What is the result of an extra ball bowled after a 'No ball'?
+18.  Which player has won the most number of Player of the Match awards?
+
+**Part 2 :- Building a Machine Learning Model that predicts the first innings score.**
+
+This notebook is all about building a machine learning model that can predict the first innings score of an IPL match. Though we present some of the accurate machine learning models based of the training data at the end of this notebook, predicting first innings score is full of uncertainity. It depends on various factors on the game day.
+
+The models built to predict the scores are:-
+
+1. Linear Regression.
+2. Decision Tree Regressor.
+3. Random Forest Regressor.
+4. AdaBoost using Linear Regression model.
+
