@@ -1,7 +1,7 @@
 ## IPL Data Analysis:-
 
 <div id="header" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Findianexpress.com%2Farticle%2Fsports%2Fipl%2Fipl-2020-full-schedule-fixtures-start-date-timings-venues-6583339%2F&psig=AOvVaw03OYksMuReZpUuUNhfRLrO&ust=1652931507292000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjZjeyP6PcCFQAAAAAdAAAAABAD" width="150"/>
+  <img src="https://images.indianexpress.com/2020/09/ipl-schedule.jpg" width="150"/>
 </div>
 
 In Cricket, IPL stands for 'Indian Premier League', a T20 cricket tournament which was originally established in 2008. The concept of creating an 'Indian Premier League IPL' structure was originally brought up by 'Lalit Modi', the vice president of BCCI. It is traditionally played from April through to June each year.
