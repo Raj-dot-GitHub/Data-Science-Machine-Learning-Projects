@@ -1,7 +1,7 @@
 ## IPL Data Analysis:-
 
 <div id="header" align="center">
-  <img src="https://images.indianexpress.com/2020/09/ipl-schedule.jpg" width="400" height="400/>
+  <img src="https://images.indianexpress.com/2020/09/ipl-schedule.jpg" width="400" height="400"/>
 </div>
 
 In Cricket, IPL stands for 'Indian Premier League', a T20 cricket tournament which was originally established in 2008. The concept of creating an 'Indian Premier League IPL' structure was originally brought up by 'Lalit Modi', the vice president of BCCI. It is traditionally played from April through to June each year.
