@@ -18,7 +18,7 @@ We have 2 parts in this Data Analysis Project. The first part goes into analyzin
 
 <div id="header" align="center">
   <img src="<div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="250"/>
+  <img src="[https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif](https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif)" width="250"/>
 </div>
 
 The Notebook has a list of 40 questions which is been divided into 4 different parts:-
